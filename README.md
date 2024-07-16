@@ -4,7 +4,7 @@ Brief description of your project.
 ## Installation
 
 ### To run this project locally, follow these steps:
-To install project dependencies, run `npm install`.
-Install `react-router-dom` with `npm install react-router-dom`.
+1. To install project dependencies, run `npm install`.
+2. Install `react-router-dom` with `npm install react-router-dom`.
 
 
