@@ -1,6 +1,6 @@
 # Project Name
 
-Brief description of your project.
+![Screenshot](./Screenshot 2024-07-16 075639.png)
 ## Installation
 
 ### To run this project locally, follow these steps:
