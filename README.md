@@ -1,5 +1,7 @@
 # Project Name
-### To run this project locally, f![Screenshot 2024-07-16 075639](https://github.com/user-attachments/assets/0efea907-5e14-4960-9b15-6cde63f8f1e2)
+![Screenshot 2024-07-16 075707](https://github.com/user-attachments/assets/64a7f011-d61b-4503-b544-962de9ac0dfe)
+
+f![Screenshot 2024-07-16 075639](https://github.com/user-attachments/assets/0efea907-5e14-4960-9b15-6cde63f8f1e2)
 
 ## Installation
 
